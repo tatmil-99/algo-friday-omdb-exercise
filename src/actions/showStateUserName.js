@@ -1,0 +1,1 @@
+export const showStateUserName = (dispatch) => { return dispatch({type: "showName"})};
